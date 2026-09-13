@@ -209,3 +209,9 @@ Repository Context
 Repositoryは、**仕事を続けるための継続面**として使う。
 
 この役割分担が、Repository Contextの最小形です。
+
+## ライセンス
+
+Repository Context最小版テンプレートは **CC0 1.0 Universal** です。コピー・改変・社内利用・商用利用を自由に行え、クレジット表示も必須ではありません。
+
+この記事は **CC BY 4.0** です。転載・翻案・翻訳などを行う場合は、Smile Company LLC / スマイル商事合同会社を出典として表示してください。
