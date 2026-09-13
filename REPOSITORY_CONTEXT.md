@@ -13,6 +13,8 @@
 - Zenn用の初回記事原稿を作成済み
 - Zenn記事は未公開（`published: false`）
 - ライセンス方針を決定・明文化済み
+- ZennとのGitHub連携作業は専門セッションへ委譲済み
+- 専門セッションの結果はACKで `web-smilecompany-llc` 側へ返す
 
 ## 公開物
 
@@ -47,6 +49,10 @@ Repository Contextの一般向け解説ページ：
 
 - https://smilecompany.llc/methods/repository-context/
 
+Zenn連携専門セッションへのHandoff正本：
+
+- `smilegroupsato/web-smilecompany-llc/handoffs/2026.09.14_01_zenn_public_smilecompany_connect.md`
+
 ## ライセンス
 
 - `repository-context-minimal/`：CC0 1.0 Universal
@@ -68,10 +74,11 @@ Repository Contextの一般向け解説ページ：
 - 記事・解説文書はCC BY 4.0とし、出典表示付きで再利用を認める。
 - ソフトウェアコードはMITを基本とする。
 - 商標・ロゴ・ブランド資産はオープンライセンスに含めない。
+- Zenn連携の詳細作業は専門セッションへ切り出し、元チャットはACKで必要最低限だけ受け取る。
 
 ## 未決事項
 
-- ZennとのGitHub連携設定
+- Zenn GitHub連携の完了ACK
 - 初回Zenn記事の最終レビューと公開判断
 - 今後の英語版、zip、Template Repository化
 
@@ -94,5 +101,6 @@ Repository Contextの一般向け解説ページ：
 
 ## 更新履歴
 
+- 2026-09-14：Zenn GitHub連携を専門セッションへ委譲し、ACKで結果を戻す運用を追加。
 - 2026-09-14：ライセンス方針を追加。CC0 / CC BY 4.0 / MIT / ブランド除外を正本化。
 - 2026-09-13：初期作成。公開Repositoryの役割、RC最小版、Zenn記事draft、公開境界を定義。
