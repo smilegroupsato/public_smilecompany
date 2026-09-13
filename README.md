@@ -45,6 +45,19 @@ Zenn連携前・公開判断前の記事は `published: false` とします。
 
 テンプレートと実運用例を見比べられるようにしています。
 
+## License
+
+内容の性質に応じてライセンスを分けています。詳細は [`LICENSE.md`](./LICENSE.md) を参照してください。
+
+| 対象 | ライセンス | 方針 |
+| --- | --- | --- |
+| `repository-context-minimal/` | CC0 1.0 Universal | コピー・改変・再配布・社内利用・商用利用を自由に行えます。クレジット不要です。 |
+| `articles/` と特に指定のない解説文書 | CC BY 4.0 | 再利用・改変・翻訳・商用利用可。出典表示が必要です。 |
+| 将来追加するソフトウェアコード | MIT License | 個別に別指定がない限りMITを基本方針とします。 |
+| ロゴ・社名・ブランド資産 | 上記ライセンスの対象外 | 本Repositoryのライセンスは商標・ブランド使用許諾を与えません。 |
+
+Repository Contextという考え方・方法論そのものを使うことは制限しません。
+
 ## このRepositoryの位置づけ
 
 このRepositoryは、対外公開してよい派生物だけを置く場所です。
@@ -67,7 +80,7 @@ public_smilecompany
 
 ## Status
 
-- Repository Context minimal starter: public
+- Repository Context minimal starter: public / CC0 1.0
 - Public Repository itself: Repository Context active
-- Zenn first article: draft
-- License: 未設定（公開物の再利用条件は別途明記予定）
+- Zenn first article: draft / CC BY 4.0
+- License policy: active
