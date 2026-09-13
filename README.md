@@ -34,6 +34,17 @@ Zenn向けの記事原稿は [`articles/`](./articles/) で管理します。
 
 Zenn連携前・公開判断前の記事は `published: false` とします。
 
+## このRepository自身もRepository Contextで運用しています
+
+説明用テンプレートを置くだけでなく、このRepositoryのルートにも実運用中の4ファイルを置いています。
+
+- [`AGENTS.md`](./AGENTS.md)：公開RepositoryでAIが守るルール
+- [`REPOSITORY_CONTEXT.md`](./REPOSITORY_CONTEXT.md)：このRepositoryの目的・現在地・判断
+- [`NEXT.md`](./NEXT.md)：次アクションと保留
+- [`HISTORY.md`](./HISTORY.md)：完了事項と採用済み判断
+
+テンプレートと実運用例を見比べられるようにしています。
+
 ## このRepositoryの位置づけ
 
 このRepositoryは、対外公開してよい派生物だけを置く場所です。
@@ -57,5 +68,6 @@ public_smilecompany
 ## Status
 
 - Repository Context minimal starter: public
+- Public Repository itself: Repository Context active
 - Zenn first article: draft
 - License: 未設定（公開物の再利用条件は別途明記予定）
