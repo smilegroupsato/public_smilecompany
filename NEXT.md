@@ -2,13 +2,13 @@
 
 ## いまやること
 
-- [ ] ZennとこのRepositoryをGitHub連携する
+- [ ] 専門セッションでZennとこのRepositoryをGitHub連携する
 - [ ] `articles/repository-context-minimal.md` をZenn Previewで確認する
-- [ ] 初回記事の最終レビュー後、公開可否を決める
+- [ ] 専門セッションからACKを返す
 
 ## 判断待ち
 
-- [ ] Zenn初回記事を `published: true` にする最終判断
+- [ ] 初回記事を `published: true` にするか最終確認する
 
 ## 後でやること
 
@@ -23,5 +23,6 @@
 
 ## 更新履歴
 
-- 2026-09-14：ライセンス方針決定済み。テンプレート=CC0、記事・解説=CC BY 4.0、コード=MIT、ブランド資産=対象外。
+- 2026-09-14：Zenn GitHub連携を専門セッションへ委譲。公開判断はACK後に戻す。
+- 2026-09-14：ライセンス方針を確定。
 - 2026-09-13：初期作成。
